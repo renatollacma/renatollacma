@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/5rWjPpw/Banner.png" alt="Banner-Profile Renato Devv">
+<img src="https://i.ibb.co/dgkyX7m/Copia-de-Banner-Linkedin.png" alt="Banner-Profile Renato Devv">
 
 
 ## Hey 👋, Soy [Renato!]()
