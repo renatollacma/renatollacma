@@ -2,14 +2,14 @@
 
 
 ## Hey 👋, Soy [Renato!]()
-Desarrollador Web Front End. Soy un profesional apasionado, disfruto mucho de la resolución de problemas, colaboraciones y el trabajo en equipo, dia a dia aprendo nuevas cosas, estoy dispuesto a trabajar duro para alcanzar mis objetivos profesionales.
+Desarrollador Web Front End. Soy un programador apasionado en el desarrollo Front dando como resultado ui amigables y atractivas a los usuarios.
 
 > Actualmente estoy preparandome con las nuevas tecnologias en el Desarrollo Frond End para de esta forma empeñarme en el mercado laboral.
 
 #### Puedes Contactarme
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/a-renato-devv) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-> Tambien puede encontrar algunos de mis proyectos personales visitando `pronto estara`
+> Tambien puede encontrar algunos de mis proyectos personales visitando `pronto disponible`
 
 #### Habilidades Personales
 - ⭐Responsabilidad   
@@ -33,7 +33,7 @@ Desarrollador Web Front End. Soy un profesional apasionado, disfruto mucho de la
 - ✔ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 - ✔  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-> Tambien he tocado `Java, Python, C#` nivel principiante
+> Tambien tengo conocimientos en `Java, Python, C#, R ` nivel principiante
 
 ```bash
 <p>Hola Mundo!</p>
