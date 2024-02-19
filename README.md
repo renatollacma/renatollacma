@@ -1,10 +1,20 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0099FF&background=02D8FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+Hola%2C+Soy+Renato" alt="Typing SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0099FF&background=02D8FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+Hola%2C+Soy+Renato" alt="Typing SVG" /></a>
 </p>
+<h2 align="center">GitHub Readme Stats</h2>
+<h2 align="center">👇</h2>
+<h3 align="center">👇</h3>
+<h2>👇</h2>
+<h1>👇</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=500&color=BF32FF&center=true&vCenter=true&random=false&width=435&height=25&lines=Desarrollador+Web;Front-End;y;Back-End" alt="Typing SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=500&color=BF32FF&center=true&vCenter=true&random=false&width=435&height=25&lines=Desarrollador+Web;Front-End;y;Back-End" alt="Typing SVG" /></a>
 </p>
 
+<a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+    <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
 <img src="https://i.ibb.co/dgkyX7m/Copia-de-Banner-Linkedin.png" alt="Banner-Profile Renato Devv">
 
