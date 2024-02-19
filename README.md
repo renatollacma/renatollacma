@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0099FF&background=02D8FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+Hola%2C+Soy+Renato" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=500&color=BF32FF&center=true&vCenter=true&random=false&width=435&height=25&lines=Desarrollador+Web;Front-End;y;Back-End" alt="Typing SVG" /></a>
+</p>
+
+
 <img src="https://i.ibb.co/dgkyX7m/Copia-de-Banner-Linkedin.png" alt="Banner-Profile Renato Devv">
 
 
