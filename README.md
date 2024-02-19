@@ -2,13 +2,13 @@
   <img width="100px" src="https://github.com/RenatoDevv/RenatoDevv/assets/129987006/74d66c54-280c-4233-a2ed-9a2a16692bb2" alt="Renato Dev Logo"/>
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=800&color=0099FF&center=true&vCenter=true&repeat=false&random=false&width=435&height=40&lines=%F0%9F%91%8B+Hola%2C+Soy++Renato" alt="Typing SVG" /></a>
+  <a href="https://renatodev.netlify.app/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=800&color=0099FF&center=true&vCenter=true&repeat=false&random=false&width=435&height=40&lines=%F0%9F%91%8B+Hola%2C+Soy++Renato" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=800&color=6C29F7&center=true&vCenter=true&repeat=false&random=false&width=435&height=30&lines=Ing.+de+Software" alt="Typing SVG" /></a>
+  <a href="https://renatodev.netlify.app/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=800&color=6C29F7&center=true&vCenter=true&repeat=false&random=false&width=435&height=30&lines=Ing.+de+Software" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=800&color=6A2DFF&center=true&vCenter=true&random=false&width=330&height=30&lines=Desarrollador+Web;Front-End;Back-End;Maquetador+Web;Desarrollo+Movil+Inicial;Maquetador+Wordpress" alt="Typing SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=800&color=6A2DFF&center=true&vCenter=true&random=false&width=330&height=30&lines=Desarrollador+Web;Front-End;Back-End;Maquetador+Web;Desarrollo+Movil+Inicial;Maquetador+Wordpress" alt="Typing SVG" /></a>
 </p>
 <p style="font-family: monospace; color: red;">Este es un texto con una fuente tipo Times New Roman.</p>
 
