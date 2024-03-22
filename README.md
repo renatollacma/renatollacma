@@ -9,29 +9,9 @@
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=800&color=6A2DFF&center=true&vCenter=true&random=false&width=330&height=30&lines=Desarrollador+Web;Front-End;Back-End;Maquetador+Web;Desarrollo+Movil+Inicial;Maquetador+Wordpress" alt="Typing SVG" /></a>
 </p>
 
+
 <h2 align="center">Visita mi 👉<a href="https://renatodev.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio 🖥️ 🌐</a></h2>
 Apasionado Desarrollador web, me considero un profesional responsable, colaborativo asumiendo retos desafiantes ademas aportando en el trabajo en equipo.
-
-
-🖥️  🧑‍💻   💳 👍 👩‍💻
-<h2 align="center">👇</h2>
-👉👈
-
-> [!NOTE]
-> Aqui tienes una nota
-
-> [!TIP]
-> Aqui tienes un consejo
-
-> [!IMPORTANT]
-> Aqui esto es importante
-
-> [!WARNING]
->Esto es con cuidado
-
-> [!CAUTION]
-> Esto es cuestion
-### Visita mi [Portfolio](https://renatodev.netlify.app/)
 
 
 <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
