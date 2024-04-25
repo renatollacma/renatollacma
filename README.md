@@ -1,8 +1,7 @@
+![Banner_git_renato](https://github.com/renatobits/renatobits/assets/129987006/4af60e0f-4a95-4728-a894-cd3ddf180247)
+
 <p align="center">
-  <img width="100px" src="https://github.com/RenatoDevv/RenatoDevv/assets/129987006/74d66c54-280c-4233-a2ed-9a2a16692bb2" alt="Renato Dev Logo"/>
-</p>
-<p align="center">
-  <a href="https://renatodev.netlify.app/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=800&color=0099FF&center=true&vCenter=true&repeat=false&random=false&width=435&height=40&lines=%F0%9F%91%8B+Hola%2C+Soy++Renato" alt="Typing SVG" /></a>
+  <a href="https://renatodevs.vercel.app/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=800&color=0099FF&center=true&vCenter=true&repeat=false&random=false&width=435&height=40&lines=%F0%9F%91%8B+Hola%2C+Soy++Renato" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <a href="https://renatodev.netlify.app/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=800&color=6C29F7&center=true&vCenter=true&repeat=false&random=false&width=435&height=30&lines=Ing.+de+Software" alt="Typing SVG" /></a> <br>
