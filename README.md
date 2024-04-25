@@ -1,4 +1,5 @@
-![Banner_git_renato](https://github.com/renatobits/renatobits/assets/129987006/4af60e0f-4a95-4728-a894-cd3ddf180247)
+![banner_github_renato](https://github.com/renatobits/renatobits/assets/129987006/3df08221-28a4-415d-a70f-8c1199c2c3fb)
+
 
 <p align="center">
   <a href="https://renatodevs.vercel.app/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=800&color=0099FF&center=true&vCenter=true&repeat=false&random=false&width=435&height=40&lines=%F0%9F%91%8B+Hola%2C+Soy++Renato" alt="Typing SVG" /></a>
@@ -12,6 +13,7 @@
 <h2 align="center">Visita mi 👉<a href="https://renatodev.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio 🖥️ 🌐</a></h2>
 Apasionado Desarrollador web, me considero un profesional responsable, colaborativo asumiendo retos desafiantes ademas aportando en el trabajo en equipo.
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-renato-devv/)
 
 <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
     <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
