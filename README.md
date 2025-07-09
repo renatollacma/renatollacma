@@ -1,4 +1,4 @@
-![banner_github_renato](https://github.com/renatobits/renatobits/assets/129987006/3df08221-28a4-415d-a70f-8c1199c2c3fb)
+![Renato_llacma_banner_github_op](https://github.com/user-attachments/assets/5174db32-2658-44ee-a4ba-4e605a5c54cb)
 
 <h1 align="center">✋Hey, Soy <a href="https://renatodevs.vercel.app/" target="_blank">Renato</a> 👩‍💻</h1>
 <h3 align="center">Tec. Ingeniero de Software & Diseñador UX/UI</h3>
