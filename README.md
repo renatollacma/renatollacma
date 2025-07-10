@@ -6,7 +6,7 @@ aprendizaje, comprometido con la actualización de mis conocimientos para estar 
 
 <h2>Mis redes sociales</h2>
 
-![Static Badge](https://img.shields.io/badge/linkedin-%23003E42?style=for-the-badge&logo=linkedin&logoSize=auto&labelColor=%23003E42&color=%23003E42&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frenatollacma%2F) [![X](https://img.shields.io/badge/x-%23003E42?style=for-the-badge&logo=x&logoSize=auto&labelColor=%23003E42&color=%23003E42)](https://x.com/Renatollacma) [![Tik Tok](https://img.shields.io/badge/tiktok-%23003E42?style=for-the-badge&logo=tiktok&logoSize=auto&labelColor=%23003E42&color=%23003E42)]()
+[![Static Badge](https://img.shields.io/badge/linkedin-%23003E42?style=for-the-badge&logo=linkedin&logoSize=auto&labelColor=%23003E42&color=%23003E42&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frenatollacma%2F)](https://www.linkedin.com/in/renatollacma/) [![X](https://img.shields.io/badge/x-%23003E42?style=for-the-badge&logo=x&logoSize=auto&labelColor=%23003E42&color=%23003E42)](https://x.com/Renatollacma) 
 
 <h2>Habilidades Personales</h2>
 ✔ Responsabilidad  
